@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DB",
+            "request": "launch",
+            "mainClass": "DB",
+            "projectName": "Java_Final_Exam_98d8ac0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientFrame",
+            "request": "launch",
+            "mainClass": "ClientFrame"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "Client"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "Server"
+        }
+    ]
+}
